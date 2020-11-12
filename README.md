@@ -50,12 +50,13 @@
 
 ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Errors-Details.jpg?raw=true)
 
-Below is a table indicating the initial summary of errors and alerts and specifically the structure and contrast issues. 
+Below is a list and screengrabs illustrating the initial WAVE report with errors and alerts. 
 
- ### Summary of Errors | ### Structural Errors | ### Contrast Error
------------- | ------------- | -------------
+1. ### Summary of Errors
 ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Error-Summary.jpg?raw=true)
+2. ### Structural Errors 
  | ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Corrected-Structure.jpg?raw=true)
+3. ### Contrast Error
  | ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Error-Contrast.jpg?raw=true)
 
 
