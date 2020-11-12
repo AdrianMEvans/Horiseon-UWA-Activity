@@ -50,7 +50,7 @@
 
 ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Errors-Details.jpg?raw=true)
 
-Below is a list and screengrabs illustrating the initial WAVE report with errors and alerts. 
+**Below is a list and screengrabs illustrating the initial WAVE report with errors and alerts.**
 
 1. ### Summary of Errors 
   * ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Error-Summary.jpg?raw=true)
@@ -61,7 +61,7 @@ Below is a list and screengrabs illustrating the initial WAVE report with errors
 
 We then implemented the customer requirements which sorted most of the issues identified by WAVE. We added a "back to top" button to each section for improved navigation for persons with disabilities. We also changed the aside element from the blue to a white background and then changed the text to match the blue of the main section. This fits in with the color scheme of the website while giving the aside element a seperate identity that is more accessible for users with disability. 
 
-Below is the list and screengrabs illustrating the WAVE report after customer criteria had been met and our suggested changes implemented.
+**Below is the list and screengrabs illustrating the WAVE report after customer criteria had been met and our suggested changes implemented.**
 
 1. ### Summary of Errors Cleared
   * ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Corrected-Summary.jpg?raw=true)
@@ -79,5 +79,3 @@ Please have a look at the **[new Horiseon site](https://adrianmevans.github.io/H
 Contact | Mobile | E-mail
 ------------ | ------------- | ------------
 Adrian Evans | 0424 064 104 | adrian@polywhiz.com
-
-
