@@ -59,11 +59,25 @@ Below is a list and screengrabs illustrating the initial WAVE report with errors
 3. ### Contrast Error 
   * ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Error-Contrast.jpg?raw=true)
 
+We then implemented the customer requirements which sorted most of the issues identified by WAVE. We added a "back to top" button to each section for improved navigation for persons with disabilities. We also changed the aside element from the blue to a white background and then changed the text to match the blue of the main section. This fits in with the color scheme of the website while giving the aside element a seperate identity that is more accessible for users with disability. 
 
+Below is the list and screengrabs illustrating the WAVE report after customer criteria had been met and our suggested changes implemented.
+
+1. ### Summary of Errors Cleared
+  * ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Corrected-Summary.jpg?raw=true)
+2. ### Structural Errors Cleared
+  * ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Corrected-Structure.jpg?raw=true)
+3. ### Contrast Errors Cleared
+  * ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Corrected-Contrast.jpg?raw=true)
+
+##Conclusion
+This final outcome of the revisions is a site that looks virtually identical to the original site. The functionality has been improved and the site is now more accessible to users with disabilities. 
+
+Please have a look at the **[new Horiseon site](https://adrianmevans.github.io/Horiseon-UWA-Activity/)** and let us know if there are any questions. We welcome constructive critisism and if you have any suggestions please contact us via the details below.
 
 :bellhop_bell: 
-
-
-
+Contact | Mobile | E-mail
+------------ | ------------- | ------------
+Adrian Evans | 0424 064 104 | adrian@polywhiz.com
 
 
