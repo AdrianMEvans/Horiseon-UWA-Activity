@@ -30,7 +30,18 @@
   In addition it was also decided to investigate additional tools to test accesibility criteria and see what additional improvements could be put forward. Also to improve accesibility and page loading the HTML code will be inspected for any missing or broken links and the CSS for any potential improvements or consolidation.
 
   ## Execution
-  A new repository was created in Git Hub. https://github.com/AdrianMEvans/Horiseon-UWA-Activity.git - automatic!
-[Horiseon Repository](https://github.com/AdrianMEvans/Horiseon-UWA-Activity.git)
+
+  ### _Customer Requirements_
+  A new repository was created in Git Hub - [Horiseon Repository](https://github.com/AdrianMEvans/Horiseon-UWA-Activity.git). The Repository was then cloned to a folder on my harddrive. I added the customer's existing files and started with my initial commit. from there i subsequently made several changes to meet the 5 criteria set by the customer.
+  - [x] Semantics were updated to latest HTML 5 naming conventions.
+  - [x] Checked that HTML elements were in a logical order for accessibility.
+  - [x] Added Alt Attributes to all images.
+  - [x] Headings were already placed in Sequential order
+  - [x] The title of the page was changed to consicely describe what the customer does.
+
+ ### _Additional implementations_
+ 
+
+
 
 
