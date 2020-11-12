@@ -70,7 +70,7 @@ Below is the list and screengrabs illustrating the WAVE report after customer cr
 3. ### Contrast Errors Cleared
   * ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Corrected-Contrast.jpg?raw=true)
 
-##Conclusion
+## Conclusion
 This final outcome of the revisions is a site that looks virtually identical to the original site. The functionality has been improved and the site is now more accessible to users with disabilities. 
 
 Please have a look at the **[new Horiseon site](https://adrianmevans.github.io/Horiseon-UWA-Activity/)** and let us know if there are any questions. We welcome constructive critisism and if you have any suggestions please contact us via the details below.
