@@ -42,10 +42,22 @@
  ### _Additional implementations_ :punch::punch::punch:
  On inspection it was noted that the Navigation link to _Search Engine Optimisation_ Section were not functioning. It was found that the ID for that section was not inserted so it had no point for the reference. This was corrected.
 
- We also made use of an online evaluation tool to test our accesibility. [WAVE](https://wave.webaim.org/) is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. See screenshot of the homepage below (as at 12 Nov 2020)
+ We also made use of an online evaluation tool to test our accesibility. [WAVE](https://wave.webaim.org/) is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. See screenshot of the homepage of the tool below (as at 12 Nov 2020)
 
 ![Image of WAVE by WebAIM's homepage](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/WAVE.jpg?raw=true)
  
+ **We did an initial run with the tool and received a detailed list of errors, alerts and correct items.**
+
+![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Errors-Details.jpg?raw=true)
+
+Below is a table indicating the initial summary of errors and alerts and specifically the structure and contrast issues. 
+
+ ### Summary of Errors | ### Structural Errors | ### Contrast Error
+------------ | ------------- | -------------
+![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Error-Summary.jpg?raw=true)
+ | ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Corrected-Structure.jpg?raw=true)
+ | ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Error-Contrast.jpg?raw=true)
+
 
 
 :bellhop_bell: 
