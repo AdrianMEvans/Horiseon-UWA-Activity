@@ -32,15 +32,23 @@
   ## Execution
 
   ### _Customer Requirements_
-  A new repository was created in Git Hub - [Horiseon Repository](https://github.com/AdrianMEvans/Horiseon-UWA-Activity.git). The Repository was then cloned to a folder on my harddrive. I added the customer's existing files and started with my initial commit. from there i subsequently made several changes to meet the 5 criteria set by the customer.
+  A new repository was created in Git Hub - [Horiseon Repository](https://github.com/AdrianMEvans/Horiseon-UWA-Activity.git). The Repository was then cloned to a folder on my harddrive. I added the customer's existing files and started with my initial commit. I subsequently made several changes to meet the 5 criteria set by the customer.
   - [x] Semantics were updated to latest HTML 5 naming conventions.
-  - [x] Checked that HTML elements were in a logical order for accessibility.
-  - [x] Added Alt Attributes to all images.
-  - [x] Headings were already placed in Sequential order
-  - [x] The title of the page was changed to consicely describe what the customer does.
+  - [x] HTML elements were placed in a logical order for accessibility.
+  - [x] Alt Attributes were added to all images.
+  - [x] Headings were placed in Sequential order
+  - [x] Title of the page changed to consicely describe the customer business.
 
- ### _Additional implementations_
+ ### _Additional implementations_ :punch::punch::punch:
+ On inspection it was noted that the Navigation link to _Search Engine Optimisation_ Section were not functioning. It was found that the ID for that section was not inserted so it had no point for the reference. This was corrected.
+
+ We also made use of an online evaluation tool to test our accesibility. [WAVE](https://wave.webaim.org/) is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. See screenshot of the homepage below (as at 12 Nov 2020)
+
  
+
+
+:bellhop_bell: 
+
 
 
 
