@@ -55,7 +55,7 @@
 1. ### Summary of Errors 
   * ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Error-Summary.jpg?raw=true)
 2. ### Structural Errors 
-  * ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Corrected-Structure.jpg?raw=true)
+  * ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Error-Structure.jpg?raw=true)
 3. ### Contrast Error 
   * ![Image of Detailed list of errors](https://github.com/AdrianMEvans/Horiseon-UWA-Activity/blob/main/assets/images/Wave-Error-Contrast.jpg?raw=true)
 
